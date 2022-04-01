@@ -1,6 +1,6 @@
 <?php
 include "connectBdd.php";
-include 'entete.html';
+include 'entete.php';
 
 echo "<h2> Liste des contacts </h2> ";
 

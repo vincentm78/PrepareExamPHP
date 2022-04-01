@@ -1,7 +1,7 @@
 <?php 
 // Connexion à la BDD, instanciation de l’objet $cnx 
 include "connectBdd.php"; 
-include 'entete.html';
+include 'entete.php';
 
 echo "<h2>Liste des contacts : </h2>"; 
 $sql = "SELECT * FROM contact";

@@ -1,9 +1,8 @@
-<?php include 'entete.html';?>
+<?php include 'entete.php';?>
 <section>
 <div class="container" style="margin-top:30px">
   <div class="row">
     <div class="col-sm-4">
-      <p> HTML CSS Bootstrap PHP et PDO...</p>
     </div>
     <div class="col-sm-8">
     </div>

@@ -1,5 +1,5 @@
 <?php
-include 'entete.html';
+include 'entete.php';
 include "connectBdd.php";
 echo "<h2>Liste des contacts : </h2>"; 
 $sql = "SELECT * FROM contact WHERE idEntreprise is null";

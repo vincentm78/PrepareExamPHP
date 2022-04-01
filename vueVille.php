@@ -1,6 +1,6 @@
 <?php
 include "connectBdd.php";
-include 'entete.html';
+include 'entete.php';
 
 $sql = "SELECT * FROM contact C inner join entreprise E on C.idEntreprise = E.id WHERE ville = :ville ";
 try {

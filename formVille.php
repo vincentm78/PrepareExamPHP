@@ -1,4 +1,4 @@
-<?php include 'entete.html';?>
+<?php include 'entete.php';?>
 <form action="vueVille.php" method="post">
     <select name="listeVille"> 
     <?php
