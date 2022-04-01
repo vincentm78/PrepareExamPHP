@@ -26,9 +26,6 @@ include 'entete.php';
     </div>
 </section>
  <!-- FOOTER -->
- <?php require 'piededPage.html';?>    
+ <?php require 'pieddepage.html';?>    
 </body>
 </html>
-<?php
-header("Location : index.php");
-?>
